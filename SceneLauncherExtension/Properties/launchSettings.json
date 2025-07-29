@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "SceneLauncherExtension (Package)": {
+      "commandName": "MsixPackage",
+      "doNotLaunchApp": true
+    },
+    "SceneLauncherExtension (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
